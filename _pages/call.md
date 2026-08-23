@@ -30,4 +30,4 @@ The registration for the workshop will open in late 2026.
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [aidiscovery4science@gmail.com](mailto:aidiscovery4science@gmail.com).
+If you have any questions, please do not hesitate to contact us at [edai4science@gmail.com](mailto:edai4science@gmail.com).

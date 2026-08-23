@@ -67,4 +67,4 @@ is a legacy al-folio script for the older manual (non-Actions) deploy flow and i
 
 - Placeholder/TBD content (e.g. `_pages/schedule.md`, `description: TBD` in `_pages/call.md`) reflects that the
   workshop program isn't finalized yet — don't treat "TBD" as a bug to silently fill in with invented content.
-- Contact email throughout the site is `aidiscovery4science@gmail.com`; keep it consistent if it changes.
+- Contact email throughout the site is `edai4science@gmail.com`; keep it consistent if it changes.
