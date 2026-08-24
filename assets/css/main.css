@@ -339,6 +339,11 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover { color: var(--global-h
 .workshop-section { margin-top: 3rem; }
 .workshop-section h2 { margin-bottom: 1.5rem; }
 .supported-by { margin-top: 1.5rem; }
+.supported-by-row { display: flex; flex-wrap: wrap; align-items: center; }
 .supported-by a { display: inline-block; margin: 10px 24px 10px 0; }
-.supported-by img { height: 48px; width: auto; max-width: 100%; }
-.supported-by .logo-helmholtz { height: auto; width: 150px; }
+.supported-by img { height: 48px; width: auto; max-width: 100%; display: block; }
+.supported-by-row-primary img { height: 64px; }
+.supported-by .logo-helmholtz { height: auto; width: 300px; transform: translateY(-7px); }
+.supported-by .logo-mdc { height: 80px; width: auto; }
+.supported-by .logo-hida { height: 36px; width: auto; }
+.supported-by .logo-hfmi { height: 36px; width: auto; }
