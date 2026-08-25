@@ -5,6 +5,7 @@ title: Call for Abstracts
 description: TBD
 nav: true
 nav_order: 2
+published: false # commented out for now; remove this line to bring the page back
 ---
 
 <br>

@@ -338,6 +338,17 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover { color: var(--global-h
 /* Workshop page: section spacing and "Supported by" logos */
 .workshop-section { margin-top: 3rem; }
 .workshop-section h2 { margin-bottom: 1.5rem; }
+.workshop-section p { line-height: 1.7; margin-bottom: 1.25rem; }
+.workshop-section ul { line-height: 1.7; list-style: none; padding-left: 0; }
+.workshop-section ul li { margin-bottom: 0.6rem; padding-left: 1.75rem; position: relative; }
+.workshop-section ul li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--global-theme-color);
+  font-weight: bold;
+}
+.speakers { border-top: 1px solid var(--global-divider-color); padding-top: 2.5rem; }
 .supported-by { margin-top: 1.5rem; }
 .supported-by-row { display: flex; flex-wrap: wrap; align-items: center; }
 .supported-by a { display: inline-block; margin: 10px 24px 10px 0; }
