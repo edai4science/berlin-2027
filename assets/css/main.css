@@ -12,6 +12,11 @@ html[data-theme='dark'] .fa-sun { padding-left: 10px; padding-top: 12px; display
 
 html[data-theme='dark'] .fa-moon { display: none; }
 
+html[data-theme='dark'] .supported-by .logo-hida,
+html[data-theme='dark'] .supported-by .logo-hfmi,
+html[data-theme='dark'] .supported-by .logo-helmholtz,
+html[data-theme='dark'] .supported-by .logo-gladstone { filter: brightness(0) invert(1); }
+
 /****************************************************************************** Content */
 body { padding-bottom: 70px; color: var(--global-text-color); background-color: var(--global-bg-color); }
 
@@ -358,3 +363,5 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover { color: var(--global-h
 .supported-by .logo-mdc { height: 80px; width: auto; }
 .supported-by .logo-hida { height: 36px; width: auto; }
 .supported-by .logo-hfmi { height: 36px; width: auto; }
+.supported-by .logo-stanford { height: 32px; width: auto; }
+.supported-by .logo-gladstone { height: 40px; width: auto; }
