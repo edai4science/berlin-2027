@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /submissions/
-title: Call for Abstracts
-description: TBD
+permalink: /registration/
+title: Registration
+description:
 nav: true
 nav_order: 2
-published: false # commented out for now; remove this line to bring the page back
 ---
 
 <br>
@@ -20,14 +19,12 @@ The workshop involves discussion and talks around the following topics:
  - Is open-endedness required for scientific discovery?
  - How can recursive systems remain stable under noisy, sparse, expensive feedback?
  - What lessons transfer between digital discovery (algorithms, models, code) and physical discovery (proteins, materials, robotics)?
-   
-## Important Dates
 
-Workshop: 23 and 24 February, 2027
+## Expression of Interest
 
-## Registration Details
+Registration for the workshop will open in late 2026.
 
-The registration for the workshop will open in late 2026.
+As the number of spots is limited, we are soliciting an expression of interest. If you are a PhD student, postdoc, research scientist (or similar in industry), or PI/faculty/group leader interested in the topics above, please submit an [expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLSckgm7SV8dZ-9jD8AhIxyGBto6HGj5CoNn8avunF19GWqfVQw/viewform). Based on fit and logistical capacity, the organizers will select from the pool of interested participants. Chosen participants will be contacted by email with further details and the registration process.
 
 ## Questions
 
